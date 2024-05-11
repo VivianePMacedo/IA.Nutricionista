@@ -16,7 +16,7 @@ $\color{#F747E1}{\textsf{Como Taiga Pode Ajudar Você?}}$
 
 ---
 
-<div style="color:lightpink">O Que Esperar de Taiga?</div>
+$\color{#F747E1}{\textsf{O Que Esperar de Taiga?}}$
 
 **Respostas Precisas e Confiantes:** Taiga fornece informações precisas e confiáveis, baseadas em pesquisas atualizadas em nutrição.
 
@@ -27,7 +27,8 @@ $\color{#F747E1}{\textsf{Como Taiga Pode Ajudar Você?}}$
 **Suporte Contínuo:** Taiga acompanha de perto sua jornada, realizando ajustes no plano alimentar conforme necessário e oferecendo dicas de exercícios físicos adequados ao seu nível de condicionamento.
 
 ---
-<div style="color:lightpink">Conclusão:</div>
+
+$\color{#F747E1}{\textsf{Conclusão}}$
 
 Com Taiga, você não está apenas recebendo orientações nutricionais, você está ganhando uma parceira comprometida em ajudá-lo a alcançar seus objetivos de saúde, enquanto se sente motivado e apoiado em cada passo do caminho. Não hesite em se juntar a nós nessa jornada de transformação e bem-estar!
 
