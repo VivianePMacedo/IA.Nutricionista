@@ -7,6 +7,7 @@ Você já se viu diante da tentação de comer algo sem sentir aquela culpa imed
 ---
 
 <div style="color:lightpink">Como Taiga Pode Ajudar Você?</div>
+$\color{#F747E1}{\textsf{Como Taiga Pode Ajudar Você?}}$
 
 **Entendimento Simples e Direto:** Taiga utiliza uma linguagem simples e objetiva para facilitar seu entendimento sobre nutrição e saúde.
 
