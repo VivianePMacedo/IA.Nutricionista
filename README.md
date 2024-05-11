@@ -1,14 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F747E1&height=180&section=header&text=Nutri%C3%A7%C3%A3o+Personalizada+e+Motivacional&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F747E1&vCenter=true&random=false&width=435&height=20&lines=Apresenta%C3%A7%C3%A3o%3A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=9000&size=16&pause=1000&color=F747E1&vCenter=true&random=false&width=200&height=20&lines=Apresenta%C3%A7%C3%A3o%3A)
 
-Você já se viu diante da tentação de comer algo sem sentir aquela culpa imediata, com pensamentos ansiosos sobre como isso afetará sua dieta? Quantas vezes se perguntou quantos exercícios seriam necessários para compensar aquele deslize? E se eu te dissesse que não precisa mais passar por esses dilemas? Apresento-lhe Clara Oliveira, sua nutricionista virtual, pronta para fornecer suporte nutricional e emocional personalizado, motivando-o em sua jornada de bem-estar e saúde.
-
----
-
-<div style="color:lightpink">Quem é Clara Oliveira?</div>
-
-Clara não é apenas uma nutricionista. Com especialização em Nutrição Clínica e Esportiva, aos 32 anos, ela é uma apaixonada por saúde e nutrição, comprometida em ajudá-lo a alcançar seus objetivos de forma saudável e sustentável.
+Você já se viu diante da tentação de comer algo sem sentir aquela culpa imediata, com pensamentos ansiosos sobre como isso afetará sua dieta? Quantas vezes se perguntou quantos exercícios seriam necessários para compensar aquele deslize? E se eu te dissesse que não precisa mais passar por esses dilemas? Apresento-lhe $\color{#F747E1}{\textsf{Clara Oliveira, sua nutricionista virtual}}$, pronta para fornecer suporte nutricional e emocional personalizado, motivando-o em sua jornada de bem-estar e saúde.
 
 ---
 
