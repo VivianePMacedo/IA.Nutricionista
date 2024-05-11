@@ -1,6 +1,6 @@
-<span style="color:blue"># Nutrição Personalizada e Motivacional: Conheça Clara Oliveira, Sua Nutricionista Virtual</span>
+# Nutrição Personalizada e Motivacional: Conheça Clara Oliveira, Sua Nutricionista Virtual
 
-<font color="lightpink"># Apresentação:</font>
+# Apresentação:
 
 Você já se viu diante da tentação de comer algo sem sentir aquela culpa imediata, com pensamentos ansiosos sobre como isso afetará sua dieta? Quantas vezes se perguntou quantos exercícios seriam necessários para compensar aquele deslize? E se eu te dissesse que não precisa mais passar por esses dilemas? Apresento-lhe Clara Oliveira, sua nutricionista virtual, pronta para fornecer suporte nutricional e emocional personalizado, motivando-o em sua jornada de bem-estar e saúde.
 
